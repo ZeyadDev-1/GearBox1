@@ -1,0 +1,11 @@
+# Ignore Maven build output
+target/
+
+# Ignore Eclipse-specific files
+.project
+.classpath
+.settings/
+
+# Ignore logs and temp files
+*.log
+*.tmp
